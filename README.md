@@ -49,4 +49,4 @@
 ## [@sudo_hacker](https://telegram.me/sudo_hacker)
 
 سوالی داشتین درخدمتم
-CH:@blackandwhiteTM
+CH:[@blackandwhiteTM](https://telegram.me/blackandwhiteTM)
